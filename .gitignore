@@ -1,0 +1,10 @@
+.idea
+cphalcon-3.1.2
+nginx-1.12.2
+php-7.2.0
+phpredis-develop
+phpssdb
+postgresql-9.6.0
+redis-3.2.4
+ssdb-master
+swoole-src-2.2.0
